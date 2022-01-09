@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeFiAlien (ENS: DeFiAlien.eth)
 - 👀 I’m interested in ETH/DeFi/Polkadot/Substrate
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning new defi protocols
 - 💞️ I’m looking to collaborate on DeFi Project Development
 - 📫 How to reach me: defi_alien@protonmail.com
 
